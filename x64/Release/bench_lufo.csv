@@ -1,0 +1,1 @@
+n,instance_idx,seed,due_model,due_range,due_tardiness,memo_mode,memo_cleaning,branch_rule,memo_capacity,best_sum_tardiness,time_ms,nodes,leaves,pruned_by_bound,pruned_by_memo_exact,pruned_by_memo_lb,memo_hits,memo_misses,memo_inserts,memo_updates,memo_evictions,memo_peak_size,memo_final_size,status,error

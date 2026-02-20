@@ -1,0 +1,2 @@
+n,instance_idx,seed,due_model,due_range,due_tardiness,memo_mode,memo_cleaning,branch_rule,memo_capacity,best_sum_tardiness,time_ms,nodes,leaves,pruned_by_bound,pruned_by_memo_exact,pruned_by_memo_lb,memo_hits,memo_misses,memo_inserts,memo_updates,memo_evictions,memo_peak_size,memo_final_size,status,error
+24,0,24000997,potts,0.6,0.6,solution,lufo,decomposition,16777216,896,178935,16777207,0,22081,184527281,0,184527281,33576494,16777207,0,0,16777207,16777207,ok,
